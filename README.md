@@ -16,7 +16,7 @@ Responsive UI: Modern, clean, and intuitive interface with seamless mode togglin
 Frontend: HTML5, CSS3
 Core Logic: Vanilla JavaScript (ES6+)
 Map Engine: Leaflet.js & OpenStreetMap Tiles
-Deployment: Vercel (CI/CD Pipeline)
+
 🧠 Core Algorithm (Ray Casting)
 
 The application's testing logic relies on the Ray Casting Algorithm. When a user tests a point on the map, a virtual ray is cast horizontally from that coordinate to infinity.
