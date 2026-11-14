@@ -23,8 +23,4 @@ The application's testing logic relies on the Ray Casting Algorithm. When a user
 
 If the ray crosses the polygon boundary an odd number of times, the system classifies the point as Inside (Green).
 If it crosses an even number of times, the point is classified as Outside (Red).
-🚀 How to Run Locally
 
-Clone the repository: git clone https://github.com/Arpit-katira/Geofence-Visualizer.git
-Navigate to the project directory: cd Geofence-Visualizer/frontend-canvas
-Simply open index.html in any modern web browser. No local server required!
